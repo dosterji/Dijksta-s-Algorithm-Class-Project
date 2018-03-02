@@ -1,0 +1,46 @@
+12
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+d, e, 1
+c, d, 2
+e, f, 2
+a, b, 3
+b, e, 3
+g, h, 3
+i, j, 3
+a, d, 4
+c, g, 4
+e, i, 4
+a, c, 5
+d, h, 5
+f, j, 5
+i, l, 5
+b, f, 6
+h, i, 6
+g, k, 6
+h, k, 7
+k, l, 8
+l, j, 9
+.
+a, a
+a, b
+a, c
+a, d
+a, e
+a, f
+a, g
+a, h
+a, i
+a, j
+a, k
+a, l
